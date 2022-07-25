@@ -1,2 +1,2 @@
 # Bot_Lotus
-Bot para raspagem com biblioteca Selenium. Criação de banco de dados relacional para construção de dashboard.
+Bot para raspagem com biblioteca Selenium. Criação de base de dados  para construção de dashboard.
